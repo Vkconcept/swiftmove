@@ -7,7 +7,7 @@ import Contact from "./Component/Contact";
 import Services from "./Component/Service";
 import Blog from "./Component/Blog";
 import Footer from "./Component/Footer";
-import LogisticsQuoteForm from "./Component/LogisticsQuoteForm"; // Make sure the file name matches
+import LogisticsQuoteForm from "./Component/LogisticsQuoteForm";
 
 export default function App() {
   return (
